@@ -1,0 +1,31 @@
+body {
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-top: 50px;
+  background-color: rgba(209, 209, 209, 0.5);
+}
+
+#content {
+  background-color: wheat;
+}
+
+header {
+  height: 50px;
+  background-color: grey;
+  display: flex;
+}
+
+.icon {
+  float: left;
+}
+
+.topnav {
+  align-self: center;
+  text-align: center;
+  width: 100%;
+}
+
+.topnav a {
+  font-size: x-large;
+  margin-left: 10px;
+}
