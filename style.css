@@ -79,6 +79,11 @@ img {
   max-height: 100%;
 }
 
+img:hover {
+  transition: 0.2s;
+  transform: scale(1.07);
+}
+
 .image {
   align-self: center;
   float: right;
